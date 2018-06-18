@@ -49,6 +49,7 @@ int main()
      cout<<"Number of coins used: "<<count;
     }
 }
+	
 Implementation:
 
 Here, greedy algorithm is used for make a greedy choice, the choice that looks best at the time, and then solves a resulting subproblem. 
